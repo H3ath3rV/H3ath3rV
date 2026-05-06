@@ -6,7 +6,7 @@ I work across brand, UI, landing pages, pitch decks and AI-assisted product conc
 
 ## Featured work
 
-### Talifun Tokenizer
+### [Talifun Tokenizer](https://github.com/H3ath3rV/talifun-tokenizer)
 Technical product landing page for a high-performance tokenizer.  
 Focused on communicating speed, efficiency and AI infrastructure value through data visualisation, brand polish and front-end execution.
 
