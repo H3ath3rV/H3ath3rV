@@ -10,7 +10,8 @@ I work across brand, UI, landing pages, pitch decks and AI-assisted product conc
 Technical product landing page for a high-performance tokenizer.  
 Focused on communicating speed, efficiency and AI infrastructure value through data visualisation, brand polish and front-end execution.
 
-**Tech:** React, Vite, TypeScript, Tailwind CSS, Framer Motion
+**Tech:** React, Vite, TypeScript, Tailwind CSS, Framer Motion  
+**Live:** [h3ath3rv.github.io/talifun-tokenizer](https://h3ath3rv.github.io/talifun-tokenizer/)
 
 ### [His Church School](https://github.com/H3ath3rV/his-church-school)
 Responsive school website built for clarity, trust and parent enquiries.  
