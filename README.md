@@ -16,7 +16,7 @@ A local-first desktop app for creating cleaner copies of videos. I designed the 
 
 **Built with:** React, Flask, Python, FFmpeg and Whisper
 
-**Try it:** [Download the Apple Silicon Mac MVP](https://github.com/H3ath3rV/bleep-bot/releases/latest)
+**Try it:** [Download the desktop MVP for macOS, Windows or Linux](https://github.com/H3ath3rV/bleep-bot/releases/latest)
 
 ### [Talifun Tokenizer](https://github.com/H3ath3rV/talifun-tokenizer)
 
